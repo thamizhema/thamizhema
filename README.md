@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamizhema&label=Profile%20views&color=0e75b6&style=flat" alt="thamizhema" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thamizhema" alt="thamizhema" /></a> </p>
+
 
 - 📄 Know about my experiences [https://github.com/thamizhema/MY_CV/blob/main/THAMIZHARASAN_CV_Figma.pdf](https://github.com/thamizhema/MY_CV/blob/main/THAMIZHARASAN_CV_Figma.pdf)
 
